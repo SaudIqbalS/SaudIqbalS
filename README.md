@@ -1,7 +1,6 @@
 - 👋 Hi, I’m SaudIqbal
 - 👀 I’m interested in   Data/ML/DL
-- 🌱 I’m currently learning Data Secience
-- 💞️ I’m looking to collaborate on Date Analysis and ML/DL and Search Engine Marketing
+- 💞️ I’m looking to collaborate on ML/DL and Search Engine Marketing
 - 📫 Reach-out saudsandhila786@gmail.com 
 
 <!---
