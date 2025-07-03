@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SaudIqbal
-- 👀 I’m interested in AI/ML Engineer
-- 💞️ I’m looking to collaborate on AI/ML Engineer
+- 👀 I’m interested in AI/ML Engineering
+- 💞️ I’m looking to collaborate on AI/ML Engineering
 - 📫 Reach-out saudsandhila786@gmail.com 
 
 <!---
