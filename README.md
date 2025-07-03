@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SaudIqbal
-- 👀 I’m interested in   Data/ML/DL
-- 💞️ I’m looking to collaborate on ML/DL and Search Engine Marketing
+- 👀 I’m interested in AI/ML Engineer
+- 💞️ I’m looking to collaborate on AI/ML Engineer
 - 📫 Reach-out saudsandhila786@gmail.com 
 
 <!---
